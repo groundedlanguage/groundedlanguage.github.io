@@ -1,0 +1,41 @@
+The following are examples in the MNIST based Blocks world environment that Bedrich Pisl claims to be incorrect and therefore noise in the data.
+For more information he can be reached at: bedapisl@gmail.com
+
+
+Move block number 5 so that it is 5 spaces above block number 8, in a straight line.
+Move the 6 block so that it is six spaces below the 2 block.
+Slide the McDonalds block right two lengths and then down until it is directly to the left of the McDonald's block.
+Put the McDonalds block in the first open space to the right of the Heineken block.
+Move 15 so it is above and to the right of 17
+Move the Mercedes logo so that it is five block spaces above the SRI logo.
+Find the 20 box that is located toward the middle of the mat. Place it so that its bottom left corner touches the top right corner of the 16 box.
+Move the Pepsi block so its bottom left corner is touching the Heineken top right corner
+Move the Nvidia block  to the second space above the Pepsi block
+2 should be west of 4
+Place block 20 west of block 20.
+place block 12 so that block 11 is under it
+place box 12 to the immediate right of box  12 then slide it up one space
+Move the block up until it is almost even with the 10 block, then move it left until its left edge just passes the 18 block's left edge.
+Move block 7 to sit equidistant between blocks 7 and 9, almost but not quite touching either of them.
+Pick up block 14.  Place it so that the numbers read block 8, 9, 10 and 14.  Block 14 should almost but not quite touch block 10.
+Place the Pepsi cube 11 rows from the top and 3 rows over from the right side.  Should be lined up with the Texaco cube.
+Place the Pepsi block so that its to the right of the McDonald block by 1 block length.
+Place block below and to the left of block 17.
+Put block in the same row as block 20, and one column to the left of block 11.
+Place the 12 beneath the 13.
+Take block 8 and place it so that the right side touches the left side of block 10.
+Move block 17 to the same column as block 16,  one block space below the top of the board.
+Move the Starbucks cube so that it's upper left corner touches the lower left corner of the right cube.
+Move 8 os it is one and a half spaces to the left of block 2
+Move block 14 so that its lower right corner touches the upper left corner of block 2.
+Move block 8 two empty spaces above block 15.
+Move block 6 half a space away from having its bottom left corner touching 14's upper left corner
+Move block 14 so that it is above and vertically aligned with block 1, touching corners with block 2.
+Move 14 to the right of 13 and three spaces straight up
+Move Pepsi to the slight southwest until it's north of Pepsi.
+BMW block moves directly up and directly to the right to slide beside UPS and then it moves to the right and down slightly to form a gap and a misalignment.
+BMW moves up and to the right around the upper part of the blocks and then down to where it is near UPS, slightly down.
+Slide the Mercedes Benz block 2 block spaces to the left. Then slide it up until it is across from the Esso.
+Adidas Logo has to move a half space to the left of Mercdes and slightly lower than Mercedes.
+20 has to move a half space to the right of 1 and then a quarter space upwards.
+Place block 15 to the right and just below block 8.  There should be a medium sized gap between 8 and 15.
